@@ -1,5 +1,5 @@
 /**
- * 15. Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês.
+ * Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês.
  * 
  * Calcule e mostre o total do seu salário no referido mês, sabendo-se que são descontados:
  * - 11% para o Imposto de Renda
